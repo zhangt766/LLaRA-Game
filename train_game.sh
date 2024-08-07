@@ -10,7 +10,7 @@ CUDA_VISIBLE_DEVICES=0 python3 main.py \
 --rec_embed SASRec \
 --llm_tuning lora \
 --llm_path /workspace/llama/models_hf/Llama-2-7b-hf  \
---rec_model_path ./rec_model/lastfm.pt \
+--rec_model_path ./rec_model/movielens.pt \
 --output_dir output/lastfm_unsloth \
 --log_dir lastfm_logs \
 --lr_warmup_start_lr 2e-6 \
