@@ -11,8 +11,8 @@ CUDA_VISIBLE_DEVICES=0 python3 main.py \
 --llm_tuning lora \
 --llm_path /workspace/llama/models_hf/Llama-2-7b-hf  \
 --rec_model_path ./rec_model/movielens.pt \
---output_dir output/lastfm_unsloth \
---log_dir lastfm_logs \
+--output_dir output/game_unsloth \
+--log_dir game_logs \
 --lr_warmup_start_lr 2e-6 \
 --lr 2e-4 \
 --lr_decay_min_lr 2e-6 \
