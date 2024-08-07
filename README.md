@@ -22,7 +22,7 @@
 Train LLaRA with a single A100 GPU on Game dataset:
 
 ```sh
-sh train_lastfm.sh
+sh train_game.sh
 ```
 
 Note that: set the `llm_path` argument with your own directory path of the Llama2 model.
@@ -33,5 +33,5 @@ Note that: set the `llm_path` argument with your own directory path of the Llama
 Test LLaRA with a single A100 GPU on Game dataset:
 
 ```sh
-sh test_lastfm.sh
+sh test_game.sh
 ```
