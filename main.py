@@ -101,13 +101,13 @@ if __name__ == '__main__':
     parser.add_argument('--load_v_num', default=None, type=int)
 
     parser.add_argument('--dataset', default='movielens_data', type=str)
-    parser.add_argument('--data_dir', default='data/ref/lastfm', type=str)
+    parser.add_argument('--data_dir', default='data/ref/movielens', type=str)
     parser.add_argument('--model_name', default='mlp_projector', type=str)
     parser.add_argument('--loss', default='lm', type=str)
     parser.add_argument('--weight_decay', default=1e-5, type=float)
     parser.add_argument('--no_augment', action='store_true')
     parser.add_argument('--ckpt_dir', default='./checkpoints/', type=str)
-    parser.add_argument('--log_dir', default='lastfm_logs', type=str)
+    parser.add_argument('--log_dir', default='movielens_logs', type=str)
     
     parser.add_argument('--rec_size', default=64, type=int)
     parser.add_argument('--padding_item_id', default=3581, type=int)
