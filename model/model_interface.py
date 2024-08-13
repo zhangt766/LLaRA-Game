@@ -232,6 +232,13 @@ class MInterface(pl.LightningModule):
         )
         return outputs
 
+    def filter_generated_output(self, output):
+        filtered_output = output.lower()
+        filtered_output = output.replace('[', '').replace(']', '')
+        filtered_output = filtered_output.replace('recommendation', '')
+        filtered_output = filtered_output.strip()
+        return filtered_output
+
     def generate(self, batch, temperature=0.8, do_sample=False, num_beams=1, max_gen_length=64, min_gen_length=1,
                  repetition_penalty=1.0, length_penalty=1.0, num_return_sequences=1):
         # input_embeds = self.wrap_emb(batch)
@@ -253,7 +260,7 @@ class MInterface(pl.LightningModule):
         )
         output_text = self.llama_tokenizer.batch_decode(generate_ids, skip_special_tokens=True,
                                                         clean_up_tokenization_spaces=False)
-        outputs = [text.strip() for text in output_text]
+        outputs = [self.filter_generated_output(text.strip()) for text in output_text]
         return outputs
 
     def training_step(self, batch, batch_idx):
@@ -300,7 +307,7 @@ class MInterface(pl.LightningModule):
         for i, generate in enumerate(generate_output):
             real = batch['correct_answer'][i]
             cans = batch['cans_name'][i]
-            generate = generate.strip().split("\n")[0]
+            generate = self.filter_generated_output(generate.strip().split("\n")[0])
             output.append((generate, real, cans))
         return output
 
@@ -358,6 +365,7 @@ class MInterface(pl.LightningModule):
             # real=batch['correct_answer'][i]
             cans = batch['cans_name'][i]
             # generate=generate.strip().split("\n")[0]
+            generate = self.filter_generated_output(generate)
             output.append((generate, real, cans))
         return output
 
@@ -690,9 +698,9 @@ class MInterface(pl.LightningModule):
             real = eval_content["real"][i]
             cans = eval_content["cans"][i]
             total_num += 1
-            generate = generate.strip().lower().strip()
-            real = real.strip().lower().strip()
-            cans = [item.strip().lower().strip() for item in cans]
+            generate = self.filter_generated_output(generate.strip().lower())
+            real = real.strip().lower()
+            cans = [item.strip().lower() for item in cans]
             gen_cans_list = []
             for cans_item in cans:
                 if cans_item in generate:
