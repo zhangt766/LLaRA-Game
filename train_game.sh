@@ -1,4 +1,3 @@
-
 CUDA_VISIBLE_DEVICES=0 python3 main.py \
 --mode train \
 --batch_size 8 \
@@ -9,9 +8,9 @@ CUDA_VISIBLE_DEVICES=0 python3 main.py \
 --prompt_path ./prompt/game.txt \
 --rec_embed SASRec \
 --llm_tuning lora \
---llm_path /workspace/llama/models_hf/Llama-2-7b-hf  \
+--llm_path /workspace/Llama-2-7b-hf  \
 --rec_model_path ./rec_model/movielens.pt \
---output_dir output/game_unsloth \
+--output_dir ./output/game_unsloth \
 --log_dir game_logs \
 --lr_warmup_start_lr 2e-6 \
 --lr 2e-4 \
