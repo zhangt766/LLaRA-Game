@@ -46,8 +46,8 @@ Target Play History:
 {TARGET_GAME} \n
 Please output the similarity ratings in JSON format. The output should only contain the JSON object with similarity scores, without any additional text. Output:"""
 
-reco_instruct = """You are a system that recommends games based on play history. Please output the similarity ratings in the format below:
-['Recommendation': game_name] \n
+reco_instruct = """You are a system that recommends games based on play history. Please output the recommended game in the format below:
+[game_name] \n
 Here are some similar users' play history and the next game they are likely to choose, along with the play history of this user.\n
 """
 
@@ -116,7 +116,7 @@ class MInterface(pl.LightningModule):
         except:
             print("bad format, cant decode")
         return random.sample(range(10), 5)
-
+  
     # tokenize
     def format_fn(self, input):
         if not self.unsloth:
@@ -232,13 +232,6 @@ class MInterface(pl.LightningModule):
         )
         return outputs
 
-    def filter_generated_output(self, output):
-        filtered_output = output.lower()
-        filtered_output = output.replace('[', '').replace(']', '')
-        filtered_output = filtered_output.replace('recommendation', '')
-        filtered_output = filtered_output.strip()
-        return filtered_output
-
     def generate(self, batch, temperature=0.8, do_sample=False, num_beams=1, max_gen_length=64, min_gen_length=1,
                  repetition_penalty=1.0, length_penalty=1.0, num_return_sequences=1):
         # input_embeds = self.wrap_emb(batch)
@@ -260,7 +253,10 @@ class MInterface(pl.LightningModule):
         )
         output_text = self.llama_tokenizer.batch_decode(generate_ids, skip_special_tokens=True,
                                                         clean_up_tokenization_spaces=False)
-        outputs = [self.filter_generated_output(text.strip()) for text in output_text]
+        # print("output_text: ",output_text)
+        # print("---------- \n ")
+        outputs = [text.strip() for text in output_text]
+        # print("outputs: ",outputs)
         return outputs
 
     def training_step(self, batch, batch_idx):
@@ -307,7 +303,7 @@ class MInterface(pl.LightningModule):
         for i, generate in enumerate(generate_output):
             real = batch['correct_answer'][i]
             cans = batch['cans_name'][i]
-            generate = self.filter_generated_output(generate.strip().split("\n")[0])
+            generate = generate.strip().split("\n")[0]
             output.append((generate, real, cans))
         return output
 
@@ -337,38 +333,81 @@ class MInterface(pl.LightningModule):
             "cans": [],
         }
 
+    # @torch.no_grad()
+    # def test_step(self, batch, batch_idx):
+    #     batch = self.batch_preprocess(batch)
+    #     generate_output = self.generate(batch)
+    #     print("generate_output: ",generate_output)
+    #     print("----------- \n ")
+    #     output = []
+    #     for i, generate in enumerate(generate_output):
+    #         # if i == 0: print(generate)
+    #         try:
+    #             generate = generate.split("Output: [")[1].split(":")
+    #             print("test generate.split ", generate)
+    #             if len(generate) > 2:
+    #                 generate = "".join(generate[1:])
+    #             else:
+    #                 generate = generate[1]
+            
+    #             generate =generate.split("]")[0].strip()
+    #             print("final generate: ",generate)
+    #         except:
+    #             print("generation in bad format")
+    #             print(generate_output[i])
+
+    #         real = batch['correct_answer'][i].split(": ")
+    #         if len(real) > 2:
+    #             real = "".join(real[1:])
+    #         else:
+    #             real = real[1]
+    #         real = real.split("]")[0].strip()
+
+    #         # real=batch['correct_answer'][i]
+    #         cans = batch['cans_name'][i]
+    #         print("cans:",cans)
+    #         # generate=generate.strip().split("\n")[0]
+    #         output.append((generate, real, cans))
+    #         print("ouputs:",output)
+    #     return output
     @torch.no_grad()
     def test_step(self, batch, batch_idx):
         batch = self.batch_preprocess(batch)
         generate_output = self.generate(batch)
+        print("generate_output: ", generate_output)
+        print("----------- \n ")
         output = []
+    
         for i, generate in enumerate(generate_output):
-            # if i == 0: print(generate)
             try:
-                generate = generate.split("Output: [")[1].split(":")
-                if len(generate) > 2:
-                    generate = "".join(generate[1:])
-                else:
-                    generate = generate[1]
-                generate.split("]")[0].strip()
-            except:
-                print("generation in bad format")
+                # 提取 Output: [ 之后的部分
+                generate = generate.split("Output: [")[1].split("]")[0].strip()
+    
+                # 如果生成的结果中存在引号，将其去除
+                if generate.startswith("'") and generate.endswith("'"):
+                    generate = generate[1:-1]
+                elif generate.startswith('"') and generate.endswith('"'):
+                    generate = generate[1:-1]
+    
+                print("final generate: ", generate)
+    
+            except Exception as e:
+                print("generation in bad format:", e)
                 print(generate_output[i])
-
+    
             real = batch['correct_answer'][i].split(": ")
             if len(real) > 2:
                 real = "".join(real[1:])
             else:
                 real = real[1]
             real = real.split("]")[0].strip()
-
-            # real=batch['correct_answer'][i]
+    
             cans = batch['cans_name'][i]
-            # generate=generate.strip().split("\n")[0]
-            generate = self.filter_generated_output(generate)
             output.append((generate, real, cans))
+            print("outputs:", output)
+    
         return output
-
+            
     def on_test_batch_end(self, outputs, batch, batch_idx, dataloader_idx):
         for generate, real, cans in outputs:
             self.test_content["generate"].append(generate)
@@ -695,12 +734,14 @@ class MInterface(pl.LightningModule):
         valid_num = 0
         total_num = 0
         for i, generate in enumerate(eval_content["generate"]):
+            # print(f"Debug: generate type: {type(generate)}")
+            # print("generate:",generate)
             real = eval_content["real"][i]
             cans = eval_content["cans"][i]
             total_num += 1
-            generate = self.filter_generated_output(generate.strip().lower())
-            real = real.strip().lower()
-            cans = [item.strip().lower() for item in cans]
+            generate = generate.strip().lower().strip()
+            real = real.strip().lower().strip()
+            cans = [item.strip().lower().strip() for item in cans]
             gen_cans_list = []
             for cans_item in cans:
                 if cans_item in generate:
@@ -715,3 +756,16 @@ class MInterface(pl.LightningModule):
         else:
             hr1 = 0
         return valid_ratio, hr1
+
+
+
+
+
+
+
+
+
+
+
+
+
