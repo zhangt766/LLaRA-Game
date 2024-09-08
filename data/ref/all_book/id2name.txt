@@ -14,7 +14,7 @@
 13::The Diviners
 14::The Elite
 15::City of Fallen Angels
-16::Wicked: The Life and Times of the Wicked Witch of the West
+16::Wicked
 17::Siege and Storm
 18::Of Poseidon
 19::Of Triton
@@ -275,7 +275,7 @@
 274::The Book Thief
 275::The Darkest Night
 276::I Am the Messenger
-277::Have a Little Faith: a True Story
+277::Have a Little Faith
 278::Bed of Roses
 279::The Last Song
 280::The Help
@@ -290,13 +290,13 @@
 289::Blindness
 290::I Am Not A Serial Killer
 291::Still Missing
-292::The Walking Dead, Vol. 01: Days Gone Bye
+292::The Walking Dead, Vol.1
 293::Simply Irresistible
 294::Little Bee
 295::Room
 296::Sh*t My Dad Says
 297::Theodore Boone: Kid Lawyer
-298::A Long Walk to Water: Based on a True Story
+298::A Long Walk to Water
 299::Slave to Sensation
 300::The Mysterious Howling
 301::Never Knowing
@@ -329,7 +329,7 @@
 328::The Scorpio Races
 329::The Last Lecture
 330::The Giver
-331::Fables, Vol. 1: Legends in Exile
+331::Fables, Vol. 1
 332::The Sweetness at the Bottom of the Pie
 333::The Boy in the Striped Pajamas
 334::The Weed That Strings the Hangman's Bag
@@ -344,7 +344,7 @@
 343::Chopsticks
 344::And Then There Were None
 345::The Weight of Silence
-346::Escape from Camp 14: One Man's Remarkable Odyssey from North Korea to Freedom in the West
+346::Escape from Camp 14
 347::Heist Society
 348::The Girl Who Played with Fire
 349::The Grimm Legacy
@@ -411,7 +411,7 @@
 410::The Innocent
 411::The Kitchen House
 412::Escape from Mr. Lemoncello's Library
-413::Unbroken: A World War II Story of Survival, Resilience, and Redemption
+413::Unbroken
 414::The Silent Wife
 415::Innocence
 416::Of Mice and Men
@@ -583,7 +583,7 @@
 582::Gathering Blue
 583::Mere Christianity
 584::The Blood of Olympus
-585::I Am Malala: The Story of the Girl Who Stood Up for Education and Was Shot by the Taliban
+585::I Am Malala
 586::Shatter Me
 587::Fracture Me
 588::Destroy Me
@@ -626,7 +626,7 @@
 625::Go Set a Watchman
 626::The Scarlet Letter
 627::Fire
-628::The Gifts of Imperfection: Let Go of Who You Think You're Supposed to Be and Embrace Who You Are
+628::The Gifts of Imperfection
 629::Hotel on the Corner of Bitter and Sweet
 630::Snow Like Ashes
 631::The Time Keeper
@@ -646,7 +646,7 @@
 645::Bone Gap
 646::Side Effects May Vary
 647::The Nightingale
-648::The Boys in the Boat: Nine Americans and Their Epic Quest for Gold at the 1936 Berlin Olympics
+648::The Boys in the Boat
 649::Brave New World
 650::As Chimney Sweepers Come to Dust
 651::Winter
@@ -698,7 +698,7 @@
 697::The Chemist
 698::I See You
 699::The Nix
-700::The Devil in the White City: Murder, Magic, and Madness at the Fair That Changed America
+700::The Devil in the White City
 701::Just Mercy: A Story of Justice and Redemption
 702::Into the Water
 703::Exit West
@@ -735,7 +735,7 @@
 734::Inkheart
 735::The Bean Trees
 736::Mystic River
-737::Julie and Julia: 365 Days, 524 Recipes, 1 Tiny Apartment Kitchen: How One Girl Risked Her Marriage, Her Job, and Her Sanity to Master the Art of Living
+737::Julie and Julia
 738::Disgrace
 739::Watchmen
 740::The Three Musketeers
@@ -743,7 +743,7 @@
 742::A Million Little Pieces
 743::Bridget Jones: The Edge of Reason
 744::Amsterdam
-745::The Omnivore's Dilemma: A Natural History of Four Meals
+745::The Omnivore's Dilemma
 746::Cannery Row
 747::The Poisonwood Bible
 748::Speak
@@ -763,15 +763,15 @@
 762::Dewey: The Small-Town Library Cat Who Touched the World
 763::The 19th Wife
 764::A Mercy
-765::Mennonite in a Little Black Dress: A Memoir of Going Home
+765::Mennonite in a Little Black Dress
 766::The Thirteenth Tale
 767::The House on Mango Street
 768::Escape
 769::In the Woods
 770::The Historian
 771::Extremely Loud and Incredibly Close
-772::Nothing to Envy: Ordinary Lives in North Korea
-773::Bird by Bird: Some Instructions on Writing and Life
+772::Nothing to Envy
+773::Bird by Bird
 774::Inkspell
 775::Blankets
 776::Dead and Gone
@@ -827,7 +827,7 @@
 826::Orange Is the New Black
 827::Longbourn
 828::I Was Told There'd Be Cake
-829::Three Cups of Tea: One Man's Mission to Promote Peace ... One School at a Time
+829::Three Cups of Tea
 830::Lucky
 831::The Red Garden
 832::The Man Who Mistook His Wife for a Hat and Other Clinical Tales
@@ -845,15 +845,15 @@
 844::Wonder
 845::Lab Girl
 846::Perfume: The Story of a Murderer
-847::Lumberjanes, Vol. 1: Beware the Kitten Holy
+847::Lumberjanes, Vol. 1
 848::Dress Your Family in Corduroy and Denim
 849::After You
 850::The Monster of Florence
 851::Remarkable Creatures
-852::A Street Cat Named Bob: How One Man and His Cat Found Hope on the Streets
+852::A Street Cat Named Bob
 853::Wytches, Volume 1
-854::Born a Crime: Stories From a South African Childhood
-855::Hogwarts: An Incomplete and Unreliable Guide
+854::Born a Crime
+855::Hogwarts
 856::Short Stories from Hogwarts of Heroism, Hardship and Dangerous Hobbies
 857::Homegoing
 858::Carry On
@@ -942,7 +942,7 @@
 941::The Final Empire
 942::The Well of Ascension
 943::Percy Jackson's Greek Gods
-944::The Wicked + The Divine, Vol. 1: The Faust Act
+944::The Wicked + The Divine
 945::A Darker Shade of Magic
 946::All the Light We Cannot See
 947::Shadow Scale
@@ -954,12 +954,12 @@
 953::The Wrath and the Dawn
 954::Falling Kingdoms
 955::Rebel Spring
-956::Rat Queens, Vol. 2: The Far Reaching Tentacles of N'rygoth
+956::Rat Queens, Vol. 2
 957::In Real Life
 958::Seconds
 959::Lolita
 960::Scarlet
-961::Ms. Marvel, Vol. 2: Generation Why
+961::Ms. Marvel, Vol. 2
 962::Queen of Shadows
 963::The Sign of Four
 964::Saga, Vol. 5
@@ -970,7 +970,7 @@
 969::November 9
 970::Nimona
 971::The Rose Society
-972::Bitch Planet, Vol. 1: Extraordinary Machine
+972::Bitch Planet, Vol. 1
 973::Frozen Tides
 974::Vengeance Road
 975::Something Strange and Deadly
@@ -985,7 +985,7 @@
 984::A Gathering of Shadows
 985::Library of Souls
 986::What Light
-987::Y: The Last Man, Vol. 1: Unmanned
+987::Y: The Last Man, Vol. 1
 988::The Winner's Kiss
 989::The Aeronaut's Windlass
 990::Curtsies & Conspiracies
@@ -1005,7 +1005,7 @@
 1004::Monstress, Vol. 1: Awakening
 1005::Tales of the Peculiar
 1006::Empire of Storms
-1007::The Wicked + The Divine, Vol. 2: Fandemonium
+1007::The Wicked + The Divine, Vol. 2
 1008::The Hammer of Thor
 1009::And I Darken
 1010::The Strange Library
@@ -1035,7 +1035,7 @@
 1034::Angels & Demons
 1035::Wild Swans: Three Daughters of China
 1036::The Glass Castle
-1037::Mountains Beyond Mountains: The Quest of Dr. Paul Farmer, A Man Who Would Cure the World
+1037::Mountains Beyond Mountains
 1038::The Bourne Identity
 1039::Eragon
 1040::Fablehaven
@@ -1049,7 +1049,7 @@
 1048::Life of Pi
 1049::One Hundred Years of Solitude
 1050::Those Who Save Us
-1051::These Is My Words: The Diary of Sarah Agnes Prine, 1881-1901, Arizona Territories
+1051::These Is My Words
 1052::The Battle of the Labyrinth
 1053::Harry Potter and the Prisoner of Azkaban
 1054::Harry Potter and the Order of the Phoenix
@@ -1057,18 +1057,18 @@
 1056::Good in Bed
 1057::Brisingr
 1058::Anne of Avonlea
-1059::Marley and Me: Life and Love With the World's Worst Dog
+1059::Marley and Me
 1060::The Golden Compass
 1061::Empire Falls
 1062::Her Royal Spyness
 1063::Chocolat
 1064::The Double Bind
 1065::Infidel
-1066::The Total Money Makeover: A Proven Plan for Financial Fitness
+1066::The Total Money Makeover
 1067::Silent in the Grave
 1068::The Count of Monte Cristo
 1069::The Sugar Queen
-1070::Garlic and Sapphires: The Secret Life of a Critic in Disguise
+1070::Garlic and Sapphires
 1071::Sarah's Key
 1072::A Tale of Two Cities
 1073::Mudbound
@@ -1083,7 +1083,7 @@
 1082::Olive Kitteridge
 1083::P.S. I Love You
 1084::The Beekeeper's Apprentice
-1085::Predictably Irrational: The Hidden Forces That Shape Our Decisions
+1085::Predictably Irrational
 1086::The Jungle
 1087::One for the Money
 1088::The Dante Club
@@ -1102,7 +1102,7 @@
 1101::Lirael
 1102::Anthem
 1103::The Lace Reader
-1104::I Feel Bad about My Neck: And Other Thoughts on Being a Woman
+1104::I Feel Bad about My Neck
 1105::Atlas Shrugged
 1106::Savvy
 1107::Villette
@@ -1119,7 +1119,7 @@
 1118::Harry Potter and the Deathly Hallows
 1119::My Name Is Memory
 1120::A Fatal Grace
-1121::Under the Banner of Heaven: A Story of Violent Faith
+1121::Under the Banner of Heaven
 1122::Wolf Hall
 1123::The Cruelest Month
 1124::Ape House
@@ -1186,11 +1186,11 @@
 1185::The Name of This Book Is Secret
 1186::Leviathan
 1187::Behemoth
-1188::The Emperor of All Maladies: A Biography of Cancer
+1188::The Emperor of All Maladies
 1189::The Adventures of Huckleberry Finn
 1190::The Evolution of Calpurnia Tate
 1191::Clockwork Angel
-1192::Born to Run: A Hidden Tribe, Superathletes, and the Greatest Race the World Has Never Seen
+1192::Born to Run
 1193::Candide
 1194::The Shoemaker's Wife
 1195::Hatchet
@@ -1225,11 +1225,11 @@
 1224::A Wizard of Earthsea
 1225::And the Mountains Echoed
 1226::Harry Potter and the Chamber of Secrets
-1227::Beauty: A Retelling of the Story of Beauty and the Beast
+1227::Beauty
 1228::Killing Floor
 1229::Daughter of Smoke & Bone
 1230::Days of Blood & Starlight
-1231::The Book of Mormon: Another Testament of Jesus Christ
+1231::The Book of Mormon
 1232::Great Expectations
 1233::The Way of Kings
 1234::The Narrow Road to the Deep North
@@ -1255,7 +1255,7 @@
 1254::Lonesome Dove
 1255::The Silver Chair
 1256::The Signature of All Things
-1257::Brideshead Revisited: The Sacred and Profane Memories of Captain Charles Ryder
+1257::Brideshead Revisited
 1258::The Thousand Autumns of Jacob de Zoet
 1259::Die Trying
 1260::Me Talk Pretty One Day
@@ -1275,14 +1275,14 @@
 1274::The Siren
 1275::Daughter of the Forest
 1276::Moon Over Manifest
-1277::The Monuments Men: Allied Heroes, Nazi Thieves, and the Greatest Treasure Hunt in History
+1277::The Monuments Men
 1278::The Amazing Adventures of Kavalier & Clay
 1279::Garden Spells
 1280::First Frost
 1281::Middlemarch
-1282::The Warmth of Other Suns: The Epic Story of America's Great Migration
+1282::The Warmth of Other Suns
 1283::The Westing Game
-1284::Hillbilly Elegy: A Memoir of a Family and Culture in Crisis
+1284::Hillbilly Elegy
 1285::A Man Called Ove
 1286::Raymie Nightingale
 1287::The Wright Brothers
@@ -1294,8 +1294,8 @@
 1293::The King of Attolia
 1294::Serafina and the Black Cloak
 1295::The No. 1 Ladies' Detective Agency
-1296::Flora and Ulysses: The Illuminated Adventures
-1297::The Color of Water: A Black Man's Tribute to His White Mother
+1296::Flora and Ulysses
+1297::The Color of Water
 1298::The Goose Girl
 1299::Mockingbird
 1300::The Expats
@@ -1312,7 +1312,7 @@
 1311::Unspoken
 1312::Where We Belong
 1313::Who Could That Be at This Hour?
-1314::No Easy Day: The Firsthand Account of the Mission That Killed Osama Bin Laden
+1314::No Easy Day
 1315::Notorious Nineteen
 1316::Seriously... I'm Kidding
 1317::I Am America
@@ -1331,19 +1331,19 @@
 1330::W is for Wasted
 1331::The Astronaut Wives Club
 1332::Sycamore Row
-1333::David and Goliath: Underdogs, Misfits, and the Art of Battling Giants
+1333::David and Goliath
 1334::Dad Is Fat
 1335::The Valley of Amazement
 1336::One Summer: America, 1927
 1337::The Girl You Left Behind
 1338::Rose Under Fire
-1339::Lone Survivor: The Eyewitness Account of Operation Redwing and the Lost Heroes of SEAL Team 10
+1339::Lone Survivor
 1340::The All-Girl Filling Station's Last Reunion
 1341::Emma
 1342::The Museum of Extraordinary Things
 1343::The 4-Hour Workweek
 1344::Think Like a Freak
-1345::10% Happier: How I Tamed the Voice in My Head, Reduced Stress Without Losing My Edge, and Found Self-Help That Actually Works
+1345::10% Happier
 1346::The Truth About Alice
 1347::Say What You Will
 1348::Throne of Glass
@@ -1352,7 +1352,7 @@
 1351::Edge of Eternity
 1352::Gray Mountain
 1353::Dear Committee Members
-1354::As You Wish: Inconceivable Tales from the Making of The Princess Bride
+1354::As You Wish
 1355::Mortal Heart
 1356::Is Everyone Hanging Out Without Me?
 1357::The Moonstone
@@ -1360,12 +1360,12 @@
 1359::Relic
 1360::The Longest Ride
 1361::I Was Here
-1362::Better Than Before: Mastering the Habits of Our Everyday Lives
+1362::Better Than Before
 1363::Redeployment
 1364::Memory Man
 1365::The House of Silk
 1366::In the Unlikely Event
-1367::Dead Wake: The Last Crossing of the Lusitania
+1367::Dead Wake
 1368::Circling the Sun
 1369::Worth Dying For
 1370::The Affair
@@ -1375,7 +1375,7 @@
 1374::Girl Waits with Gun
 1375::You're Never Weird on the Internet
 1376::Make Me
-1377::Year of Yes: How to Dance It Out, Stand In the Sun and Be Your Own Person
+1377::Year of Yes
 1378::Eligible
 1379::The Summer Before the War
 1380::American Housewife
@@ -1395,7 +1395,7 @@
 1394::The Grownup
 1395::The Princess Saves Herself in this One
 1396::The Great Divorce
-1397::Talking as Fast as I Can: From Gilmore Girls to Gilmore Girls, and Everything in Between
+1397::Talking as Fast as I Can
 1398::A Great Reckoning
 1399::The Women in the Castle
 1400::Eleanor Oliphant is Completely Fine
@@ -1600,7 +1600,7 @@
 1599::The Spectacular Now
 1600::Crash into You
 1601::Defiance
-1602::Good Omens: The Nice and Accurate Prophecies of Agnes Nutter, Witch
+1602::Good Omens
 1603::Othello
 1604::Atlantia
 1605::Crewel
@@ -1626,7 +1626,7 @@
 1625::Perfect Chemistry
 1626::The Book of Tomorrow
 1627::Clockwork Prince
-1628::Behind the Beautiful Forevers: Life, Death, and Hope in a Mumbai Undercity
+1628::Behind the Beautiful Forevers
 1629::The Edge of Never
 1630::Witch & Wizard
 1631::Me Before You
@@ -1656,7 +1656,7 @@
 1655::The Lies of Locke Lamora
 1656::Someday, Someday, Maybe
 1657::Tempest
-1658::Hyperbole and a Half: Unfortunate Situations, Flawed Coping Mechanisms, Mayhem, and Other Things That Happened
+1658::Hyperbole and a Half
 1659::Real
 1660::Adultery
 1661::Message in a Bottle
@@ -1713,14 +1713,14 @@
 1712::Geek Girl
 1713::Losing Hope
 1714::Ugly Love
-1715::Brain on Fire: My Month of Madness
+1715::Brain on Fire
 1716::Girl Online
 1717::Two Boys Kissing
 1718::Day 21
 1719::The Assassin's Blade
 1720::Collide
 1721::Blameless
-1722::Neil Patrick Harris: Choose Your Own Autobiography
+1722::Neil Patrick Harris
 1723::Pines
 1724::The Heir
 1725::Lord of Scoundrels
@@ -1768,7 +1768,7 @@
 1767::The Proposal
 1768::You Were Mine
 1769::Stinger
-1770::The DUFF: Designated Ugly Fat Friend
+1770::The DUFF
 1771::The Air He Breathes
 1772::Nerve
 1773::A God in Ruins
@@ -1836,7 +1836,7 @@
 1835::Fire Inside
 1836::Beauty from Surrender
 1837::Escaping Reality
-1838::Holy Frigging Matrimony: A Tangled Series Short Story
+1838::Holy Frigging Matrimony
 1839::Shooting Scars
 1840::The Fault in Our Stars
 1841::Fueled
@@ -1951,7 +1951,7 @@
 1950::A Child Called "It"
 1951::The Secret History
 1952::Where the Heart Is
-1953::Helter Skelter: The True Story of the Manson Murders
+1953::Helter Skelter
 1954::Cat's Eye
 1955::Choke
 1956::Divine Secrets of the Ya-Ya Sisterhood
@@ -1979,7 +1979,7 @@
 1978::I Am Legend and Other Stories
 1979::The Pox Party
 1980::Duma Key
-1981::Persepolis: The Story of a Childhood
+1981::Persepolis
 1982::The Arrival
 1983::Evernight
 1984::Prince Caspian
@@ -2020,7 +2020,7 @@
 2019::Marcelo in the Real World
 2020::Twelfth Night
 2021::The Awakening
-2022::Locke & Key, Vol. 1: Welcome to Lovecraft
+2022::Locke & Key, Vol. 1
 2023::Bridge to Terabithia
 2024::Jonathan Livingston Seagull
 2025::The Awakening
@@ -2032,9 +2032,9 @@
 2031::Black Hole
 2032::Green Eggs and Ham
 2033::The Monster at the End of this Book
-2034::Locke & Key, Vol. 2: Head Games
+2034::Locke & Key, Vol. 2
 2035::Fade
-2036::World War Z: An Oral History of the Zombie War
+2036::World War Z
 2037::Gone
 2038::The Disreputable History of Frankie Landau-Banks
 2039::A Certain Slant of Light
@@ -2066,7 +2066,7 @@
 2065::Full Dark, No Stars
 2066::The Replacement
 2067::Bumped
-2068::Sweet Valley Confidential: Ten Years Later
+2068::Sweet Valley Confidential
 2069::My Soul to Take
 2070::The Dark and Hollow Places
 2071::Crooked Letter, Crooked Letter
@@ -2086,7 +2086,7 @@
 2085::Bossypants
 2086::Divergent
 2087::My Friend Dahmer
-2088::Free Four: Tobias Tells the Divergent Knife-Throwing Scene
+2088::Free Four
 2089::Dead Ever After
 2090::Existence
 2091::Origin
@@ -2098,16 +2098,16 @@
 2097::The Tenth Circle
 2098::Let's Explore Diabetes with Owls
 2099::Cinder
-2100::Hawkeye, Volume 1: My Life as a Weapon
-2101::Chew, Vol. 1: Taster's Choice
+2100::Hawkeye: My Life as a Weapon
+2101::Chew: Taster's Choice
 2102::Locke & Key, Vol. 6: Alpha & Omega
 2103::Saga, Vol. 2
 2104::Through the Woods
-2105::Pretty Deadly, Vol. 1: The Shrike
-2106::Not That Kind of Girl: A Young Woman Tells You What She's "Learned"
+2105::Pretty Deadly
+2106::Not That Kind of Girl
 2107::City of Bones
 2108::The Book with No Pictures
-2109::Texts from Jane Eyre: And Other Conversations with Your Favorite Literary Characters
+2109::Texts from Jane Eyre
 2110::Dead Heat
 2111::This One Summer
 2112::Fire Touched
@@ -2117,7 +2117,7 @@
 2116::A List of Cages
 2117::Silence Fallen
 2118::When Dimple Met Rishi
-2119::Giant Days, Vol. 1
+2119::Giant Days
 2120::They Both Die at the End
 2121::Stardust
 2122::Alcatraz Versus the Evil Librarians
@@ -2165,7 +2165,7 @@
 2164::Tiger Lily
 2165::Steelheart
 2166::Tinkers
-2167::Steal Like an Artist: 10 Things Nobody Told You About Being Creative
+2167::Steal Like an Artist
 2168::The Shadow Throne
 2169::The Enchanted
 2170::Noggin
@@ -2174,7 +2174,7 @@
 2173::Words of Radiance
 2174::Split Second
 2175::All the Truth That's in Me
-2176::Maus II: A Survivor's Tale: And Here My Troubles Began
+2176::Maus II
 2177::Out of the Easy
 2178::The Kiss of Deception
 2179::The Winner's Crime
@@ -2186,7 +2186,7 @@
 2185::The Year of Magical Thinking
 2186::Emmy & Oliver
 2187::Gemina
-2188::Furiously Happy: A Funny Book About Horrible Things
+2188::Furiously Happy
 2189::Turtles All the Way Down
 2190::Crime and Punishment
 2191::The Curious Case of Benjamin Button
@@ -2198,7 +2198,7 @@
 2197::Feed
 2198::Uncommon Criminals
 2199::Enclave
-2200::SuperFreakonomics: Global Cooling, Patriotic Prostitutes And Why Suicide Bombers Should Buy Life Insurance
+2200::SuperFreakonomics
 2201::Fire Study
 2202::Rot & Ruin
 2203::Switched
@@ -2290,8 +2290,8 @@
 2289::Saving Francesca
 2290::Conversion
 2291::First & Then
-2292::The Unbeatable Squirrel Girl, Volume 1: Squirrel Power
-2293::Lumberjanes, Vol. 2:  Friendship to the Max
+2292::The Unbeatable Squirrel Girl
+2293::Lumberjanes
 2294::Anne of the Island
 2295::Binti
 2296::An Ember in the Ashes
@@ -2446,10 +2446,10 @@
 2445::The Corrections
 2446::Lock In
 2447::Cut & Run
-2448::#GIRLBOSS
+2448::GIRLBOSS
 2449::Authority
 2450::The Sixth Extinction: An Unnatural History
-2451::This Star Won't Go Out: The Life and Words of Esther Grace Earl
+2451::This Star Won't Go Out
 2452::Prince Lestat
 2453::Him
 2454::Wayward
@@ -2462,7 +2462,7 @@
 2461::The City of Mirrors
 2462::UnDivided
 2463::The Complete Persepolis
-2464::Trigger Warning: Short Fictions and Disturbances
+2464::Trigger Warning
 2465::A Little Life
 2466::The Color Purple
 2467::All the Ugly and Wonderful Things
@@ -2471,7 +2471,7 @@
 2470::The Serpent King
 2471::We Are the Ants
 2472::History Is All You Left Me
-2473::The Lost City of Z: A Tale of Deadly Obsession in the Amazon
+2473::The Lost City of Z
 2474::Lincoln in the Bardo
 2475::The Gentleman's Guide to Vice and Virtue
 2476::The Subtle Knife
@@ -2499,7 +2499,7 @@
 2498::The Magician's Land
 2499::Neverwhere
 2500::A Wrinkle in Time
-2501::In the Heart of the Sea: The Tragedy of the Whaleship Essex
+2501::In the Heart of the Sea
 2502::The Remains of the Day
 2503::American Gods
 2504::Angela's Ashes
@@ -2516,7 +2516,7 @@
 2515::Every Heart a Doorway
 2516::Number the Stars
 2517::The Stranger
-2518::Ishmael: An Adventure of the Mind and Spirit
+2518::Ishmael
 2519::Holes
 2520::Cold Comfort Farm
 2521::The Importance of Being Earnest
@@ -2524,14 +2524,14 @@
 2523::American Gods
 2524::Xenocide
 2525::The Tale of Despereaux
-2526::Sorcery & Cecelia: or The Enchanted Chocolate Pot
-2527::Fables, Volume 2: Animal Farm
+2526::Sorcery & Cecelia
+2527::Fables
 2528::The Chronicles of Narnia
 2529::The Ultimate Hitchhiker's Guide to the Galaxy
 2530::Mary Poppins
 2531::Eldest
 2532::The Hours
-2533::Lamb: The Gospel According to Biff, Christ's Childhood Pal
+2533::Lamb
 2534::Angus, Thongs and Full-Frontal Snogging
 2535::The City of Ember
 2536::The People of Sparks
@@ -2541,7 +2541,7 @@
 2540::The Last Olympian
 2541::Fever 1793
 2542::The Time Traveler's Wife
-2543::The Worst Hard Time: The Untold Story of Those Who Survived the Great American Dust Bowl
+2543::The Worst Hard Time
 2544::Along Came a Spider
 2545::Devil in Winter
 2546::The Wordy Shipmates
@@ -2559,7 +2559,7 @@
 2558::Poison
 2559::The Hangman's Daughter
 2560::Shades of Earth
-2561::William Shakespeare's Star Wars: Verily, A New Hope
+2561::William Shakespeare's Star Wars
 2562::Midnight Crossroad
 2563::Sarah's Key
 2564::Fortune's Pawn
@@ -2577,7 +2577,7 @@
 2576::Ancillary Mercy
 2577::Welcome to Night Vale
 2578::Lost Stars
-2579::Very Good Lives: The Fringe Benefits of Failure and the Importance of Imagination
+2579::Very Good Lives
 2580::The Sleeper and the Spindle
 2581::Adulthood Is a Myth
 2582::The Fantastic Flying Books of Mr. Morris Lessmore
@@ -2613,7 +2613,7 @@
 2612::The End
 2613::Night
 2614::The Story of a New Name
-2615::A Mother's Reckoning: Living in the Aftermath of Tragedy
+2615::A Mother's Reckoning
 2616::Nevernight
 2617::Vinegar Girl
 2618::It
@@ -2635,7 +2635,7 @@
 2634::Walden
 2635::Fear and Loathing in Las Vegas
 2636::Misery
-2637::Zen and the Art of Motorcycle Maintenance: An Inquiry Into Values
+2637::Zen and the Art of Motorcycle Maintenance
 2638::The Merchant of Venice
 2639::The Turn of the Screw
 2640::The Prophet
@@ -2662,7 +2662,7 @@
 2661::The Celestine Prophecy
 2662::Midnight in the Garden of Good and Evil
 2663::The Alienist
-2664::The Hot Zone: The Terrifying True Story of the Origins of the Ebola Virus
+2664::The Hot Zone
 2665::Kiss the Girls
 2666::The Diving Bell and the Butterfly
 2667::The Wind in the Willows
@@ -2695,7 +2695,7 @@
 2694::Out
 2695::A Long Way Down
 2696::The Secret
-2697::The Stupidest Angel: A Heartwarming Tale of Christmas Terror
+2697::The Stupidest Angel
 2698::Vanishing Acts
 2699::You Suck
 2700::The Terror
@@ -2706,15 +2706,15 @@
 2705::Change of Heart
 2706::Pet Sematary
 2707::Fool
-2708::Bonk: The Curious Coupling of Science and Sex
+2708::Bonk
 2709::Into the Wild
 2710::The Magician's Elephant
 2711::Ash
 2712::That Summer
 2713::Impulse
 2714::Child 44
-2715::1491: New Revelations of the Americas Before Columbus
-2716::The Ghost Map: The Story of London's Most Terrifying Epidemic - and How It Changed Science, Cities, and the Modern World
+2715::1491
+2716::The Ghost Map
 2717::Feed
 2718::One Crazy Summer
 2719::White Teeth
@@ -2726,7 +2726,7 @@
 2725::An Object of Beauty
 2726::Shades of Milk and Honey
 2727::Everybody Sees the Ants
-2728::Packing for Mars: The Curious Science of Life in the Void
+2728::Packing for Mars
 2729::The God Delusion
 2730::Ulysses
 2731::A Farewell to Arms
@@ -2737,8 +2737,7 @@
 2736::Freedom
 2737::The Last Dragonslayer
 2738::The Hundred Thousand Kingdoms
-2739::Heaven is for Real: A Little Boy's Astounding Story of His Trip to Heaven and Back
-2740::Prince of Thorns
+2739::Heaven is for Real
 2741::Are You My Mother?
 2742::I Want My Hat Back
 2743::The Night Strangers
@@ -2765,15 +2764,15 @@
 2764::When She Woke
 2765::Why Be Happy When You Could Be Normal?
 2766::Nine Stories
-2767::Into Thin Air: A Personal Account of the Mount Everest Disaster
+2767::Into Thin Air
 2768::The Daughter of Time
 2769::Catch-22
 2770::This is Not My Hat
-2771::The Psychopath Test: A Journey Through the Madness Industry
+2771::The Psychopath Test
 2772::Let the Right One In
 2773::Little House in the Big Woods
 2774::Case Histories
-2775::Gulp: Adventures on the Alimentary Canal
+2775::Gulp
 2776::Because of Winn-Dixie
 2777::Alas, Babylon
 2778::Kindred
@@ -2800,13 +2799,13 @@
 2799::Sorcerer to the Crown
 2800::When a Scot Ties the Knot
 2801::Size 12 Is Not Fat
-2802::Notorious RBG: The Life and Times of Ruth Bader Ginsburg
+2802::Notorious RBG
 2803::Hamilton: The Revolution
 2804::If I Was Your Girl
 2805::Mort
 2806::Doomsday Book
 2807::All Clear
-2808::Summer Days and Summer Nights: Twelve Love Stories
+2808::Summer Days and Summer Nights
 2809::To Say Nothing of the Dog
 2810::Consider Phlebas
 2811::The Last Little Blue Envelope
@@ -2816,12 +2815,12 @@
 2815::Abaddon's Gate
 2816::Cibola Burn
 2817::Winnie-the-Pooh
-2818::We Should Hang Out Sometime: Embarrassingly, a True Story
+2818::We Should Hang Out Sometime
 2819::The Beginning of Everything
 2820::Ask the Passengers
 2821::The Last Policeman
 2822::The Miniaturist
-2823::Blue Like Jazz: Nonreligious Thoughts on Christian Spirituality
+2823::Blue Like Jazz
 2824::The Alchemist
 2825::The Love That Split the World
 2826::Night Road
@@ -2953,7 +2952,7 @@
 2952::Undead and Unwed
 2953::Olive Kitteridge
 2954::Magic Bleeds
-2955::Twilight: The Graphic Novel, Vol. 1
+2955::Twilight: The Graphic Novel
 2956::Demon from the Dark
 2957::The Friday Night Knitting Club
 2958::Backstage Pass
@@ -2964,7 +2963,7 @@
 2963::Fair Game
 2964::The List
 2965::None of the Above
-2966::Missoula: Rape and the Justice System in a College Town
+2966::Missoula
 2967::Alive
 2968::Damned
 2969::George
@@ -2975,7 +2974,7 @@
 2974::Asking For It
 2975::The Girl with the Lower Back Tattoo
 2976::The Running Dream
-2977::The Subtle Art of Not Giving a F*ck: A Counterintuitive Approach to Living a Good Life
+2977::The Subtle Art of Not Giving a F*ck
 2978::Little Fires Everywhere
 2979::On the Road
 2980::Meant to Be
@@ -2984,7 +2983,7 @@
 2983::The Assassin and the Pirate Lord
 2984::Everything Leads to You
 2985::Fahrenheit 451
-2986::The New Jim Crow: Mass Incarceration in the Age of Colorblindness
+2986::The New Jim Crow
 2987::The Martian
 2988::Harry Potter and the Cursed Child
 2989::Crooked Kingdom
@@ -3054,18 +3053,18 @@
 3053::Eating Animals
 3054::The Swan Thieves
 3055::What the Dog Saw and Other Adventures
-3056::The Zombie Survival Guide: Complete Protection from the Living Dead
+3056::The Zombie Survival Guide
 3057::Girl in Translation
 3058::Sizzling Sixteen
 3059::Wicked Appetite
-3060::Side Jobs: Stories from the Dresden Files
+3060::Side Jobs
 3061::Towers of Midnight
 3062::The Picture of Dorian Gray
 3063::The Walking Dead, Compendium 1
 3064::A Northern Light
 3065::Shadowfever
 3066::Pale Demon
-3067::Moonwalking with Einstein: The Art and Science of Remembering Everything
+3067::Moonwalking with Einstein
 3068::Explosive Eighteen
 3069::Zone One
 3070::The House at Riverton
@@ -3084,7 +3083,7 @@
 3083::A Shiver of Light
 3084::The Undead Pool
 3085::The Witch With No Name
-3086::The Art of Asking; or, How I Learned to Stop Worrying and Let People Help
+3086::The Art of Asking
 3087::Half a King
 3088::Discount Armageddon
 3089::The Kind Worth Killing
@@ -3098,7 +3097,7 @@
 3097::Carrie
 3098::Go Ask Alice
 3099::Jurassic Park
-3100::The Hiding Place: The Triumphant True Story of Corrie Ten Boom
+3100::The Hiding Place
 3101::When God Was a Rabbit
 3102::Kindred Spirits
 3103::The Exorcist
@@ -3110,21 +3109,21 @@
 3109::When It's Real
 3110::We Are Okay
 3111::Queens of Geek
-3112::Persepolis 2: The Story of a Return
+3112::Persepolis 2
 3113::The Color of Magic
 3114::Brooklyn
 3115::The White Tiger
-3116::Mindset: The New Psychology of Success
-3117::Half the Sky: Turning Oppression into Opportunity for Women Worldwide
-3118::The Checklist Manifesto: How to Get Things Right
+3116::Mindset
+3117::Half the Sky
+3118::The Checklist Manifesto
 3119::House Rules
-3120::Drive: The Surprising Truth About What Motivates Us
+3120::Drive
 3121::The Magician
 3122::Just Kids
 3123::The Art Forger
-3124::The Reason I Jump: The Inner Voice of a Thirteen-Year-Old Boy with Autism
+3124::The Reason I Jump
 3125::Aurora
-3126::Evicted: Poverty and Profit in the American City
+3126::Evicted
 3127::Wolf Hollow
 3128::The Wild Robot
 3129::The World Without Us
@@ -3144,7 +3143,7 @@
 3143::Bad Monkey
 3144::The House Girl
 3145::Vampires in the Lemon Grove
-3146::Five Days at Memorial: Life and Death in a Storm-Ravaged Hospital
+3146::Five Days at Memorial
 3147::The Good Earth
 3148::Crossed
 3149::Grasshopper Jungle
@@ -3167,7 +3166,7 @@
 3166::Zeitoun
 3167::The Bell Jar
 3168::The Water Knife
-3169::Down the Rabbit Hole: Curious Adventures and Cautionary Tales of a Former Playboy Bunny
+3169::Down the Rabbit Hole
 3170::The Sympathizer
 3171::You
 3172::Eileen
@@ -3176,41 +3175,41 @@
 3175::Carry On
 3176::Eeny Meeny
 3177::The Slow Regard of Silent Things
-3178::Fun Home: A Family Tragicomic
+3178::Fun Home
 3179::You Will Know Me
 3180::Sandman Slim
-3181::Shrill: Notes from a Loud Woman
+3181::Shrill
 3182::The Long Way to a Small, Angry Planet
 3183::The Rosie Effect
 3184::Swing Time
 3185::Difficult Women
 3186::Pippi Longstocking
 3187::The Witching Hour
-3188::The Penderwicks: A Summer Tale of Four Sisters, Two Rabbits, and a Very Interesting Boy
+3188::The Penderwicks
 3189::The Chocolate War
-3190::Forever . . .
+3190::Forever 
 3191::Housekeeping
 3192::Reading Lolita in Tehran
-3193::Food Rules: An Eater's Manual
+3193::Food Rules
 3194::The Girls' Guide to Hunting and Fishing
 3195::The Housekeeper and the Professor
 3196::Testimony
 3197::Bet Me
 3198::Something About You
-3199::Seabiscuit: An American Legend
+3199::Seabiscuit
 3200::The Age of Innocence
 3201::South of Broad
 3202::The Reversal
 3203::The Spellman Files
 3204::Mrs. Dalloway
 3205::Tell No One
-3206::Daring Greatly: How the Courage to Be Vulnerable Transforms the Way We Live, Love, Parent, and Lead
+3206::Daring Greatly
 3207::Pirate Latitudes
 3208::We Are All Completely Beside Ourselves
 3209::The Sisters Brothers
 3210::The Little Friend
 3211::The Bone Season
-3212::Destiny of the Republic: A Tale of Madness, Medicine and the Murder of a President
+3212::Destiny of the Republic
 3213::Please Look After Mom
 3214::The Drop
 3215::The Slap
@@ -3230,21 +3229,21 @@
 3229::The Aviator's Wife
 3230::The Virgin Suicides
 3231::Patient Zero
-3232::His Bloody Project: Documents relating to the case of Roderick Macrae
+3232::His Bloody Project
 3233::The Undomestic Goddess
-3234::The Little Book of Hygge: The Danish Way to Live Well
+3234::The Little Book of Hygge
 3235::The Devotion of Suspect X
 3236::House of Leaves
 3237::The Heart is a Lonely Hunter
 3238::Something Wicked This Way Comes
 3239::John Dies at the End
-3240::He's Just Not That Into You: The No-Excuses Truth to Understanding Guys
+3240::He's Just Not That Into You
 3241::Billy Lynn's Long Halftime Walk
 3242::Whistling Past the Graveyard
 3243::The Twelve Tribes of Hattie
 3244::My Story
 3245::Salvage the Bones
-3246::After Dead: What Came Next in the World of Sookie Stackhouse
+3246::After Dead
 3247::The Good Lord Bird
 3248::Haunted
 3249::The Lover's Dictionary
@@ -3257,7 +3256,7 @@
 3256::Snuff
 3257::F*ck Love
 3258::The Fold
-3259::Troublemaker: Surviving Hollywood and Scientology
+3259::Troublemaker
 3260::Maybe Not
 3261::Alice
 3262::Nuts
@@ -3277,15 +3276,15 @@
 3276::The God of Small Things
 3277::It
 3278::Hollywood Dirt
-3279::Fast Food Nation: The Dark Side of the All-American Meal
+3279::Fast Food Nation
 3280::Winter's Bone
 3281::Steve Jobs
 3282::Fall of Giants
 3283::The Perfume Collector
-3284::American Sniper: The Autobiography of the Most Lethal Sniper in U.S. Military History
+3284::American Sniper
 3285::The Woman Upstairs
 3286::TransAtlantic
-3287::Salt Sugar Fat: How the Food Giants Hooked Us
+3287::Salt Sugar Fat
 3288::The Almond Tree
 3289::This is the Story of a Happy Marriage
 3290::Natchez Burning
@@ -3325,11 +3324,11 @@
 3324::Running with Scissors
 3325::Life of Pi
 3326::Memories of My Melancholy Whores
-3327::Nickel and Dimed: On Getting By in America
+3327::Nickel and Dimed
 3328::The Crimson Petal and the White
-3329::Guns, Germs, and Steel: The Fates of Human Societies
+3329::Guns, Germs, and Steel
 3330::American Wife
-3331::Team of Rivals: The Political Genius of Abraham Lincoln
+3331::Team of Rivals
 3332::The Inheritance of Loss
 3333::Sophie's World
 3334::The Zahir
@@ -3340,17 +3339,17 @@
 3339::Handle with Care
 3340::Hard-Boiled Wonderland and the End of the World
 3341::The Shipping News
-3342::The Audacity of Hope: Thoughts on Reclaiming the American Dream
-3343::Look Me in the Eye: My Life with Asperger's
+3342::The Audacity of Hope
+3343::Look Me in the Eye
 3344::Alice I Have Been
 3345::Let the Great World Spin
-3346::Beautiful Boy: A Father's Journey Through His Son's Addiction
+3346::Beautiful Boy
 3347::Push
-3348::Bitter Is the New Black: Confessions of a Condescending, Egomaniacal, Self-Centered Smartass, Or, Why You Should Never Carry A Prada Bag to the Unemployment Office
+3348::Bitter Is the New Black
 3349::South of the Border, West of the Sun
-3350::Eats, Shoots & Leaves: The Zero Tolerance Approach to Punctuation
-3351::Committed: A Skeptic Makes Peace with Marriage
-3352::Madame Tussaud: A Novel of the French Revolution
+3350::Eats, Shoots & Leaves
+3351::Committed
+3352::Madame Tussaud
 3353::The Lady of the Rivers
 3354::Lone Wolf
 3355::Rebecca
@@ -3358,9 +3357,9 @@
 3357::Best Friends Forever
 3358::The White Princess
 3359::The Light in the Ruins
-3360::The Four Agreements: A Practical Guide to Personal Freedom
-3361::Revenge Wears Prada: The Devil Returns
-3362::Going Clear: Scientology, Hollywood, and the Prison of Belief
+3360::The Four Agreements
+3361::Revenge Wears Prada
+3362::Going Clear
 3363::Summer House with Swimming Pool
 3364::How to Build a Girl
 3365::Secrets of a Charmed Life
@@ -3371,7 +3370,7 @@
 3370::Wintersong
 3371::All Our Wrong Todays
 3372::Love Warrior
-3373::Moneyball: The Art of Winning an Unfair Game
+3373::Moneyball
 3374::Kane and Abel
 3375::Walk Two Moons
 3376::Summer Sisters
@@ -3383,7 +3382,7 @@
 3382::Special Topics in Calamity Physics
 3383::Fahrenheit 451
 3384::The End of the Affair
-3385::Dear Life: Stories
+3385::Dear Life
 3386::Flowers for Algernon
 3387::Dandelion Wine
 3388::Shopaholic Ties the Knot
@@ -3435,16 +3434,16 @@
 3434::Where the Red Fern Grows
 3435::East of Eden
 3436::Around the World in Eighty Days
-3437::The Tipping Point: How Little Things Can Make a Big Difference
+3437::The Tipping Point
 3438::Dearly Devoted Dexter
-3439::Sex, Drugs, and Cocoa Puffs: A Low Culture Manifesto
+3439::Sex, Drugs, and Cocoa Puffs
 3440::Casino Royale
 3441::Franny and Zooey
 3442::Remember Me?
 3443::The Princess Diaries
 3444::Guards! Guards!
-3445::Kitchen Confidential: Adventures in the Culinary Underbelly
-3446::Dreams from My Father: A Story of Race and Inheritance
+3445::Kitchen Confidential
+3446::Dreams from My Father
 3447::Sputnik Sweetheart
 3448::Kitchen
 3449::Stories of Your Life and Others
@@ -3486,8 +3485,8 @@
 3485::The Art of Fielding
 3486::Black Swan Green
 3487::The Thinking Woman's Guide to Real Magic
-3488::One Thousand White Women: The Journals of May Dodd
-3489::Born Standing Up: A Comic's Life
+3488::One Thousand White Women
+3489::Born Standing Up
 3490::Disclaimer
 3491::Between the World and Me
 3492::Cold-Hearted Rake
@@ -3497,16 +3496,16 @@
 3496::Maine
 3497::The Seven Husbands of Evelyn Hugo
 3498::Certain Girls
-3499::The Geography of Bliss: One Grump's Search for the Happiest Places in the World
+3499::The Geography of Bliss
 3500::Open
 3501::Life
-3502::The Disappearing Spoon: And Other True Tales of Madness, Love, and the History of the World from the Periodic Table of the Elements
+3502::The Disappearing Spoon
 3503::Bossypants
 3504::Stories I Only Tell My Friends
 3505::A Visit from the Goon Squad
 3506::The Family Fang
 3507::NW
-3508::Unbearable Lightness: A Story of Loss and Gain
+3508::Unbearable Lightness
 3509::Sweet Tooth
 3510::Saturday
 3511::The Awakening
@@ -3524,7 +3523,7 @@
 3523::Kulti
 3524::A Week to Be Wicked
 3525::Shōgun
-3526::The Year of Living Biblically: One Man's Humble Quest to Follow the Bible as Literally as Possible
+3526::The Year of Living Biblically
 3527::The Pilot's Wife
 3528::The Left Hand of Darkness
 3529::The Penelopiad
@@ -3532,45 +3531,45 @@
 3531::Possession
 3532::Thinking, Fast and Slow
 3533::Tomorrow, When the War Began
-3534::In the Garden of Beasts: Love, Terror, and an American Family in Hitler's Berlin
+3534::In the Garden of Beasts
 3535::A Hidden Fire
 3536::Miss Peregrine's Home For Peculiar Children
 3537::The Light Fantastic
 3538::An Astronaut's Guide to Life on Earth
-3539::The Psychopath Test: A Journey Through the Madness Industry
+3539::The Psychopath Test
 3540::Chelsea Chelsea Bang Bang
 3541::The Time Traveler's Wife
 3542::Perdido Street Station
-3543::In Defense of Food: An Eater's Manifesto
+3543::In Defense of Food
 3544::Dirk Gently's Holistic Detective Agency
 3545::Hollow City
 3546::Eighth Grave After Dark
 3547::Digital Fortress
 3548::Snow
 3549::The Vanishing Act of Esme Lennox
-3550::Travels with Charley: In Search of America
+3550::Travels with Charley
 3551::The Adventures of Sherlock Holmes
 3552::Practical Magic
-3553::The Professor and the Madman: A Tale of Murder, Insanity and the Making of the Oxford English Dictionary
-3554::The Poisoner's Handbook: Murder and the Birth of Forensic Medicine in Jazz Age New York
+3553::The Professor and the Madman
+3554::The Poisoner's Handbook
 3555::War and Peace
 3556::The Luminaries
-3557::Surely You're Joking, Mr. Feynman!: Adventures of a Curious Character
+3557::Surely You're Joking, Mr. Feynman!
 3558::Moby-Dick or, The Whale
 3559::A Brief History of Seven Killings
 3560::Sapiens: A Brief History of Humankind
 3561::A Room with a View
 3562::Stoner
 3563::Rules of Civility
-3564::Good to Great: Why Some Companies Make the Leap... and Others Don't
+3564::Good to Great
 3565::The Blade Itself
 3566::Telegraph Avenue
 3567::Those Who Leave and Those Who Stay
 3568::The Story of the Lost Child
 3569::Altered Carbon
 3570::The First Bad Man
-3571::Killing Lincoln: The Shocking Assassination that Changed America Forever
-3572::Killing Kennedy: The End of Camelot
+3571::Killing Lincoln
+3572::Killing Kennedy
 3573::Canada
 3574::Mrs. Lincoln's Dressmaker
 3575::Gone Girl
@@ -3610,8 +3609,8 @@
 3609::Playboy Pilot
 3610::The Silent Waters
 3611::Naughty Boss
-3612::My Horizontal Life: A Collection of One-Night Stands
-3613::The Five Love Languages: How to Express Heartfelt Commitment to Your Mate
+3612::My Horizontal Life
+3613::The Five Love Languages
 3614::A Painted House
 3615::The Crown & the Arrow
 3616::Suzanne's Diary for Nicholas
@@ -3621,7 +3620,7 @@
 3620::The Map of Time
 3621::Replay
 3622::Les Misérables
-3623::Empty Mansions: The Mysterious Life of Huguette Clark and the Spending of a Great American Fortune
+3623::Empty Mansions
 3624::Half of a Yellow Sun
 3625::The Japanese Lover
 3626::Something Borrowed
@@ -3664,20 +3663,20 @@
 3663::A New Earth: Awakening to Your Life's Purpose
 3664::Wizard's First Rule
 3665::Sing You Home
-3666::Proof of Heaven: A Neurosurgeon's Journey into the Afterlife
+3666::Proof of Heaven
 3667::Find Her
-3668::Fragile Things: Short Fictions and Wonders
+3668::Fragile Things
 3669::Till We Have Faces
 3670::Waking Up Married
 3671::Libriomancer
 3672::Seveneves
-3673::Zealot: The Life and Times of Jesus of Nazareth
+3673::Zealot
 3674::The Sword of Shannara
 3675::Big Rock
 3676::Royally Matched
 3677::Roar
-3678::Bomb: The Race to Build—and Steal—the World's Most Dangerous Weapon
-3679::Blink: The Power of Thinking Without Thinking
+3678::Bomb
+3679::Blink
 3680::The Love Interest
 3681::RoseBlood
 3682::Perfect
@@ -3693,7 +3692,7 @@
 3692::The Wasp Factory
 3693::Twenty Thousand Leagues Under the Sea
 3694::Eleanor and Park
-3695::Blood, Bones, and Butter: The Inadvertent Education of a Reluctant Chef
+3695::Blood, Bones, and Butter
 3696::Equal Rites
 3697::Wyrd Sisters
 3698::Hunger Makes Me a Modern Girl
@@ -3732,7 +3731,7 @@
 3731::The Good, the Bad, and the Undead
 3732::Mitosis
 3733::Rework
-3734::Tiny Beautiful Things: Advice on Love and Life from Dear Sugar
+3734::Tiny Beautiful Things
 3735::The Killer Angels
 3736::The Iliad
 3737::The Godfather
@@ -3753,7 +3752,7 @@
 3752::Of Fire and Stars
 3753::The Fault in Our Stars
 3754::A Darker Shade of Magic
-3755::Fantastic Beasts and Where to Find Them: The Original Screenplay
+3755::Fantastic Beasts and Where to Find Them
 3756::Dance with the Devil
 3757::Fuzzy Nation
 3758::The Perfect Play
@@ -3778,7 +3777,7 @@
 3777::The Prince
 3778::The Last Wish
 3779::Labor Day
-3780::The Big Short: Inside the Doomsday Machine
+3780::The Big Short
 3781::Mom & Me & Mom
 3782::Mr. Churchill's Secretary
 3783::Hunger: A Memoir of Body
@@ -3788,7 +3787,7 @@
 3787::The Wednesday Letters
 3788::The Forever War
 3789::The Black Box
-3790::The Book Whisperer: Awakening the Inner Reader in Every Child
+3790::The Book Whisperer
 3791::Gone Girl
 3792::Waking Gods
 3793::Oliver Twist
@@ -3806,12 +3805,12 @@
 3805::For You
 3806::At Peace
 3807::The Sound and the Fury
-3808::Creativity, Inc.: Overcoming the Unseen Forces That Stand in the Way of True Inspiration
+3808::Creativity, Inc
 3809::Only Time Will Tell
 3810::Smokin' Seventeen
 3811::The Gods of Guilt
 3812::The Isle of the Lost
-3813::Fantastic Beasts and Where to Find Them: The Original Screenplay
+3813::Fantastic Beasts and Where to Find Them
 3814::Origin
 3815::The Boy Who Sneaks in My Bedroom Window
 3816::The Bronze Horseman
@@ -3820,7 +3819,7 @@
 3819::Childhood's End
 3820::The Restaurant at the End of the Universe
 3821::Fantasy Lover
-3822::Getting Things Done: The Art of Stress-Free Productivity
+3822::Getting Things Done
 3823::The Calling
 3824::A Portrait of the Artist as a Young Man
 3825::Before They Are Hanged
@@ -3834,7 +3833,7 @@
 3833::Red Mars
 3834::The Road
 3835::Fifty Shades Trilogy
-3836::You Are a Badass: How to Stop Doubting Your Greatness and Start Living an Awesome Life
+3836::You Are a Badass
 3837::My Blood Approves
 3838::Archangel's Blade
 3839::Feverborn
@@ -3843,12 +3842,12 @@
 3842::The Perks of Being a Wallflower
 3843::The Master and Margarita
 3844::Daughter of Smoke and Bone
-3845::The Spirit Catches You and You Fall Down: A Hmong Child, Her American Doctors, and the Collision of Two Cultures
+3845::The Spirit Catches You and You Fall Down
 3846::Gathering Darkness
 3847::Branded
 3848::Blood Kiss
 3849::Providence
-3850::The 7 Habits of Highly Effective People: Powerful Lessons in Personal Change
+3850::The 7 Habits of Highly Effective People
 3851::Sugar Daddy
 3852::The Argonauts
 3853::Gardens of the Moon
@@ -3860,7 +3859,7 @@
 3859::The Hunchback of Notre-Dame
 3860::Destined
 3861::Lola and the Boy Next Door
-3862::The Opposite of Loneliness: Essays and Stories
+3862::The Opposite of Loneliness
 3863::Eleven Minutes
 3864::The Emperor's Blades
 3865::A Game of Thrones
@@ -3871,7 +3870,7 @@
 3870::A Room of One's Own
 3871::My Name is Red
 3872::In One Person
-3873::The Diamond Age: or, A Young Lady's Illustrated Primer
+3873::The Diamond Age
 3874::Anathem
 3875::The Grapes of Wrath
 3876::Fangirl
@@ -3879,14 +3878,14 @@
 3878::A Fire Upon the Deep
 3879::2001: A Space Odyssey
 3880::Best Served Cold
-3881::Elon Musk: Inventing the Future
+3881::Elon Musk
 3882::Night Pleasures
 3883::The Colorado Kid
 3884::Naked Lunch
 3885::Acheron
 3886::Harry Potter and the Sorcerer's Stone
 3887::Life, the Universe and Everything
-3888::The Black Swan: The Impact of the Highly Improbable
+3888::The Black Swan
 3889::Dune Messiah
 3890::The Shock of the Fall
 3891::Prudence
@@ -3913,41 +3912,41 @@
 3912::Styxx
 3913::Harry Potter and the Philosopher's Stone
 3914::By the River Piedra I Sat Down and Wept
-3915::The Power of Now: A Guide to Spiritual Enlightenment
+3915::The Power of Now
 3916::A Court of Mist and Fury
 3917::The Autobiography of Malcolm X
 3918::The Selfish Gene
-3919::The War of Art: Break Through the Blocks & Win Your Inner Creative Battles
+3919::The War of Art
 3920::Rich Dad, Poor Dad
 3921::Gone Girl
-3922::The Monk Who Sold His Ferrari: A Fable About Fulfilling Your Dreams  Reaching Your Destiny
-3923::ذاكرة الجسد
-3924::كخه يا بابا
-3925::ساق البامبو
+3922::The Monk Who Sold His Ferrari
+3923::Memory in the Flesh
+3924::Yuck, Daddy
+3925::The Bamboo Stalk
 3926::Laskar Pelangi
 3927::The Handmaid's Tale
 3928::The Night Circus
 3929::Empire of Storms
-3930::الخيميائي
-3931::هيبتا
-3932::بيكاسو وستاربكس
-3933::في قلبي أنثى عبرية
-3934::محال
+3930::The Alchemist
+3931::Hepta
+3932::Picasso and Starbucks
+3933::In My Heart, a Hebrew Woman
+3934::Impossible
 3935::The Immortals of Meluha
 3936::The Secret of the Nagas
 3937::The Oath of the Vayuputras
-3938::أحببتك أكثر مما ينبغي
-3939::أنت لي
-3940::الأسود يليق بك
-3941::يوتوبيا
-3942::ألواح ودسر
-3943::قواعد العشق الأربعون: رواية عن جلال الدين الرومي
-3944::القوقعة: يوميات متلصص
-3945::رجال في الشمس
-3946::زمن الخيول البيضاء
-3947::ثلاثية غرناطة
-3948::أمير الظل: مهندس على الطريق
-3949::com نسيان
-3950::فئران أمي حصة
-3951::المهمة غير المستحيلة
-3952::Totto-chan: The Little Girl at the Window
+3938::I Loved You More Than I Should
+3939::You Are Mine
+3940::Black Suits You
+3941::Utopia
+3942::Tablets and Rafts
+3943::The Forty Rules of Love
+3944::The Shell
+3945::Men in the Sun
+3946::The Time of White Horses
+3947::The Granada Trilogy
+3948::Prince of Shadows
+3949::Forget com
+3950::My Mother’s Rats
+3951::The Not Impossible Mission
+3952::Totto-chan
